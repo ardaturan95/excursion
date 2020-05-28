@@ -1,0 +1,34 @@
+* {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: white;
+    font-weight: normal;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
+.brand {
+    text-align: right;
+    color: gray;
+}
